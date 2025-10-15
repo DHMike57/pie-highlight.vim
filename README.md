@@ -5,7 +5,7 @@ A little bit of comfort highlighting when working through https://github.com/the
 Install it using `Plug`:
 
 ```sh
-Plug 'felipesere/pie-highlight.vim'
+Plug 'DHMike57/pie-highlight.vim'
 ```
 
 The highlighting is pretty rudimentary, and the indentation is based on `lisp`.
