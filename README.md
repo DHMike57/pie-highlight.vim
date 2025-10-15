@@ -13,3 +13,4 @@ The highlighting is pretty rudimentary, and the indentation is based on `lisp`.
 
 PRs are welcome :smile:
 
+Credit: fork of original by felipesere, now deleted
